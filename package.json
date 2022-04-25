@@ -1,0 +1,30 @@
+{
+  "name": "notable",
+  "version": "1.0.0",
+  "description": "The skeleton of a back-end for note-taking application think Google Keep",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Oguidan/Notable.git"
+  },
+  "keywords": [
+    "Notable"
+  ],
+  "author": "Michael Oguidan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Oguidan/Notable/issues"
+  },
+  "homepage": "https://github.com/Oguidan/Notable#readme",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "express": "^4.17.3",
+    "mongodb": "^4.5.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
