@@ -4,7 +4,8 @@
   "description": "The skeleton of a back-end for note-taking application think Google Keep",
   "main": "index.js",
   "scripts": {
-    "test": "npm index"
+    "test": "npm index",
+    "dev" : "nodemon server.js"
   },
   "repository": {
     "type": "git",
